@@ -1,6 +1,6 @@
 # TIØ4317 Project - Improving Forecasts of Energy Stock Returns Using Commidity Prices & FX Rates 
 
-🎥 **Video Presentation:** [Add link]
+🎥 **Video Presentation:** TIØ4317-Project-Presentation.ppsx
 
 👥 **Contributors:**
 - Fabian Stoltenberg
