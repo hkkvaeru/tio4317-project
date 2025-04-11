@@ -6,11 +6,11 @@ This project applies time-series analysis for forecasting stock prices. Specific
 
 
 ### Repo Structure
-├── Data
-│   ├── Processed
-│   └── Raw
-├── Notebooks
-├── README.md
-└── Report.ipynb
-
+├── Data\
+│   ├── Processed\
+│   └── Raw\
+├── Notebooks\
+├── README.md\
+└── Report.ipynb\
+\
 18 directories, 47 files
